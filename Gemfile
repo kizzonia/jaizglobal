@@ -14,6 +14,7 @@ gem "mini_magick"
 gem "fog-aws"
 #gem 'active_admin_flat_skin'
 gem 'arctic_admin'
+gem 'seed_dump'
 
 gem 'kaminari'
 gem 'sass-rails', '~> 5.0'
